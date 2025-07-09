@@ -19,11 +19,6 @@
    make
    ```  
    to compile the project. ⚙️
-3. **Go to the `patchs` folder and run:**  
-   ```bash
-   make
-   ```  
-   to compile the patches. 🔧
 
 ## Credits 🙏
 - **Zaksabeast** for the friends & account patches. 👾
