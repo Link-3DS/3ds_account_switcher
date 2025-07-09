@@ -6,7 +6,7 @@
 2. Extract and place the `luma` and `3ds` folders on your SD card. 💾
 3. Insert the SD card into your console. 🔌
 4. Boot up your console and launch the Homebrew Launcher. 🚀
-5. Open the Link3DS Switcher app and select your network. 🌐
+5. Open the `3ds_account_switcher` app and select a network. 🌐
 
 ## Building 🏗️
 
